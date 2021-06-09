@@ -1,0 +1,27 @@
+.container{
+    height: auto;
+    width: 414px;
+    margin: 0 auto;
+    background-color: gray;
+}
+input{
+    height: 30px;
+    width: 400px;
+    outline: none;
+    padding: 5px;
+    font-size: 25px;
+}
+li{
+    list-style-type: none;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: rgb(47, 194, 108);
+    font-size: 25px; 
+    padding: 5px;
+    border-radius: 5px;
+}
+a:hover{
+    background-color: white;
+}
